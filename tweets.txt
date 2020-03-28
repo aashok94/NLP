@@ -1,0 +1,2 @@
+'This is #cool and I #love it. :)'
+'Thanks @datacamp. #nlp #learning'
